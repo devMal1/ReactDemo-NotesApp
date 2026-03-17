@@ -9,6 +9,7 @@ This project is a classic notes tracking app.
 ## 🗝️ Key Learning Objectives
 
 * Tailwind CSS
+* Controlled Inputs
 
 ## 🔄 How to Run
 
